@@ -42,7 +42,7 @@
       },
       {
         "protocol": "https",
-        "hostname": "^(?:^(?:archmuseum\\-cms\\.onrender\\.com)$)$",
+        "hostname": "^(?:^(?:cms\\.archmuseum\\.am)$)$",
         "port": "",
         "pathname": "^(?:\\/(?!\\.{1,2}(?:\\/|$))(?:(?:(?!(?:^|\\/)\\.{1,2}(?:\\/|$)).)*?))$"
       }

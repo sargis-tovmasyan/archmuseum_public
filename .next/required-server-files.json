@@ -67,7 +67,7 @@
         },
         {
           "protocol": "https",
-          "hostname": "archmuseum-cms.onrender.com",
+          "hostname": "cms.archmuseum.am",
           "port": "",
           "pathname": "/**"
         }

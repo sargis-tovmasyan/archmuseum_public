@@ -21,13 +21,6 @@
       "static/chunks/main-app-ba3c38a50985017f.js",
       "static/chunks/app/api/eduprogs/route-d9ffa3091f85e437.js"
     ],
-    "/api/exhibitions/route": [
-      "static/chunks/webpack-bbff0a67b7c3ddfd.js",
-      "static/chunks/4bd1b696-f785427dddbba9fb.js",
-      "static/chunks/1255-9494d7e861e97d68.js",
-      "static/chunks/main-app-ba3c38a50985017f.js",
-      "static/chunks/app/api/exhibitions/route-d9ffa3091f85e437.js"
-    ],
     "/api/fonds/route": [
       "static/chunks/webpack-bbff0a67b7c3ddfd.js",
       "static/chunks/4bd1b696-f785427dddbba9fb.js",
@@ -41,6 +34,13 @@
       "static/chunks/1255-9494d7e861e97d68.js",
       "static/chunks/main-app-ba3c38a50985017f.js",
       "static/chunks/app/api/privacy/route-d9ffa3091f85e437.js"
+    ],
+    "/api/exhibitions/route": [
+      "static/chunks/webpack-bbff0a67b7c3ddfd.js",
+      "static/chunks/4bd1b696-f785427dddbba9fb.js",
+      "static/chunks/1255-9494d7e861e97d68.js",
+      "static/chunks/main-app-ba3c38a50985017f.js",
+      "static/chunks/app/api/exhibitions/route-d9ffa3091f85e437.js"
     ],
     "/api/terms/route": [
       "static/chunks/webpack-bbff0a67b7c3ddfd.js",
