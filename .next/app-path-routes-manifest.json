@@ -1,14 +1,13 @@
 {
-  "/_not-found/page": "/_not-found",
   "/api/contact/route": "/api/contact",
   "/api/eduprogs/route": "/api/eduprogs",
+  "/api/exhibitions/route": "/api/exhibitions",
   "/api/fonds/route": "/api/fonds",
   "/api/privacy/route": "/api/privacy",
-  "/api/exhibitions/route": "/api/exhibitions",
   "/api/terms/route": "/api/terms",
   "/api/third-party/route": "/api/third-party",
   "/favicon.ico/route": "/favicon.ico",
-  "/[locale]/announcements/[id]/page": "/[locale]/announcements/[id]",
+  "/_not-found/page": "/_not-found",
   "/[locale]/announcements/page": "/[locale]/announcements",
   "/[locale]/contacts/page": "/[locale]/contacts",
   "/[locale]/eduprogs/[id]/page": "/[locale]/eduprogs/[id]",
@@ -22,5 +21,6 @@
   "/[locale]/privacy/page": "/[locale]/privacy",
   "/[locale]/terms/page": "/[locale]/terms",
   "/[locale]/third-party/page": "/[locale]/third-party",
-  "/[locale]/virtualtour/[id]/page": "/[locale]/virtualtour/[id]"
+  "/[locale]/virtualtour/[id]/page": "/[locale]/virtualtour/[id]",
+  "/[locale]/announcements/[id]/page": "/[locale]/announcements/[id]"
 }
