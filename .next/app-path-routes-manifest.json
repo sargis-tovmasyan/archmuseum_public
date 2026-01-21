@@ -18,9 +18,9 @@
   "/[locale]/fonds/page": "/[locale]/fonds",
   "/[locale]/news/[id]/page": "/[locale]/news/[id]",
   "/[locale]/news/page": "/[locale]/news",
+  "/[locale]/page": "/[locale]",
   "/[locale]/privacy/page": "/[locale]/privacy",
   "/[locale]/terms/page": "/[locale]/terms",
   "/[locale]/third-party/page": "/[locale]/third-party",
-  "/[locale]/page": "/[locale]",
   "/[locale]/virtualtour/[id]/page": "/[locale]/virtualtour/[id]"
 }
