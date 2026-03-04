@@ -54,13 +54,42 @@
         "x-next-revalidated-tags",
         "x-next-revalidate-tag-token"
       ]
+    },
+    "/opengraph-image": {
+      "initialHeaders": {
+        "cache-control": "public, immutable, no-transform, max-age=31536000",
+        "content-type": "image/png",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/opengraph-image/layout,_N_T_/opengraph-image/route,_N_T_/opengraph-image"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/opengraph-image",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
     }
   },
   "dynamicRoutes": {},
   "notFoundRoutes": [],
   "preview": {
-    "previewModeId": "6156a2d081fda2a616a02bc15684fe48",
-    "previewModeSigningKey": "ba22aec15a53e2ee787cf214ad7415e47077543edc748ebae68fa3447917cdf5",
-    "previewModeEncryptionKey": "ef5e7c6bbc315c70c82a2fcdea7ac6bde14608ef5ba5d76fe4ddd65a85365b45"
+    "previewModeId": "02a64afa8c44cc5330bfa752425e0ab6",
+    "previewModeSigningKey": "2979b62475690c5bd4b3df004ccb4cb087a773b714926edf61224c276ce1cf81",
+    "previewModeEncryptionKey": "b16575f2df346b131506bce4dccb7d538dcb32e0997006a57d4ca2f866f93d06"
   }
 }
